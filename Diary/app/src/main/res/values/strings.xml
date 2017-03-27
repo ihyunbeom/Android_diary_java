@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Owls</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">388217421555873</string>
+
+</resources>
