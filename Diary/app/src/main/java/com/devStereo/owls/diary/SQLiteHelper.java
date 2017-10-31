@@ -9,7 +9,7 @@ import android.database.sqlite.SQLiteStatement;
 /**
  * Created by Cloud on 2017-03-12.
  */
-
+//sqLiteHelper= new SQLiteHelper(this,"MemoDB.sqlite", null,1);
 public class SQLiteHelper extends SQLiteOpenHelper {
     public SQLiteHelper(Context context, String name, SQLiteDatabase.CursorFactory factory, int version) {
         super(context, name, factory, version);
